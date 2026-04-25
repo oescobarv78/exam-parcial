@@ -1,6 +1,3 @@
 ﻿# Examen Parcial - Plataforma de Créditos
-Ramas: Se usó GitFlow para cada funcionalidad.
 
-Stack: ASP.NET Core 8, Entity Framework, SQLite y Redis.
-
-Deploy: Configurado en Render con Docker.
+https://exam-parcial.onrender.com
