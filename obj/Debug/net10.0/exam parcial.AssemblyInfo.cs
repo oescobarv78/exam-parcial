@@ -10,12 +10,11 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-exam_parcial-c7ede765-8679-4b01-84ba-8d9398b66b11")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("exam parcial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64bff7ab17830e4399b01a9a0c3f8ea4a2da15ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0430f3dbf4c22c76a061d093672caab3f982d1b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("exam parcial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exam parcial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
