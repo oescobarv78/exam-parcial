@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exam parcial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0430f3dbf4c22c76a061d093672caab3f982d1b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55c24fce070bc48d4b18b891b5c7216c416e37dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("exam parcial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exam parcial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
